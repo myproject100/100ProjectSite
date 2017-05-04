@@ -20,7 +20,8 @@
 		<div class="content large-5 columns align-center">
 			<img class="logo" src="<?= get_template_directory_uri() . '/images/logo.png' ?>" />
 			<hr/>
-			<p class="slogan">“Business is not about money.<br>It’s about making dreams come true<br>for others, and for yourself.</p>
+			<p class ="slogan">"Success comes from persistently<br>improving and inventing, not from <br>persistently promoting what’s not working”</p>
+			
 			<hr/>
 			<div class="clearfix"></div>
 			<p class="bottom-slogan"><span>DEREK SIVERS,</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="right-text">ANYTHING YOU WANT</span></p>
@@ -39,7 +40,8 @@
 		<div class="content-top large-5 columns align-center">
 			<h1 class="my-title">Project <span class="ralewaybold">100</span></h1>
 			<p class="text-content-top">
-				Designed to help you tackle marketing<br>and design projects with 100% authenticity -<br>100% of the time.
+                Designed to help you tackle tech projects<br>with 100% authenticity<br>-<br>100% of the time
+
 			</p>
 		</div>
 		<img src="<?= get_template_directory_uri() . '/images/s2.png' ?>" />
@@ -53,7 +55,7 @@
 			<h2 class="mulibold">We are Just Like You</h2>
 
 			<p>
-				We work with enlightened, forward-thinking start-ups and<br> small businesses. Together, we work towards a goal that creates brand awareness,<br> higher levels of visibility, and a unique value proposition.
+				We work with enlightened, forward-thinking <?php echo '<b>start-ups</b>'; ?> and<br> small businesses. Together, we work towards a goal that creates brand awareness,<br> higher levels of <?php echo '<b>visibility</b>'; ?>, and a unique value <?php echo '<b>proposition</b>' ?>.
 			</p>
 
 			<p>
