@@ -165,7 +165,7 @@
 		<h3>We work with people</h3>
 		<p class="mulilight">COOL PEOPLE</p>
 
-		<video src="<?= get_template_directory_uri() ?>/video/video.mp4"
+		<video src="<?= get_template_directory_uri() ?>/video/video_final.mp4"
 			style="width:100%;border:0;"
 			autoplay="autoPlay"
 			loop="true"
